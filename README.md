@@ -30,7 +30,9 @@ This engagement simulates the first two phases of a real penetration test: recon
 
 ## Report
 
-Full penetration testing report (Liability Disclaimer, Introduction, Tools Used, Activities Performed, Risk Analysis, Recommendations, Conclusion, Evidence) is included in this repo: [W2_Final_Report_Tunde_Oduola.docx](./W2_Final_Report_Tunde_Oduola.docx).
+The full penetration testing report (Liability Disclaimer, Introduction, Tools Used, Activities Performed, Risk Analysis, Recommendations, Conclusion, Evidence) is viewable directly here: [REPORT.md](./REPORT.md).
+
+A Word version is also included for submission purposes: [W2_Final_Report_Tunde_Oduola.docx](./W2_Final_Report_Tunde_Oduola.docx) (this one downloads rather than previews, since GitHub doesn't render .docx inline).
 
 ## Author
 
